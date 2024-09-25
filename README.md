@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @coffeeandpython, people call me Muthu.
-- 👀 I’m interested in automation 🤖in general and python in particular.
-- 📫 Email me on muthu.cnp (at) hotmail.com
+👀 I’m interested in automation 🤖in general and python in particular.
 
 <!---
 coffeeandpython/coffeeandpython is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
